@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a660a1ce-dc3a-45c3-89d2-c5580e9ba8d4" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bmvdumeMtacyI6FCPHiU840tpu" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\spring-cloud-study\huahaoyueyuan" />
+      <recent name="C:\workspace\spring-cloud-study\huahaoyueyuan\user-servoce\src\main\java\com\cloud\userservoce" />
+      <recent name="C:\workspace\spring-cloud-study\huahaoyueyuan\user-servoce\src\main\resources" />
+      <recent name="C:\workspace\spring-cloud-study\huahaoyueyuan\uaa-service\src\main\java\com\cloud\uaaservice" />
+      <recent name="C:\workspace\spring-cloud-study\huahaoyueyuan\uaa-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserServoceApplication">
+    <configuration name="spring-cloud-auth.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/spring-cloud-auth.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="4ae72813-f416-4550-bba7-2a4548738775" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UaaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="uaa-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.uaaservice.UaaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServoceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-servoce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.userservoce.UserServoceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.spring-cloud-auth.sql" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.UaaServiceApplication" />
+      <item itemvalue="Spring Boot.UserServoceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.spring-cloud-auth.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a660a1ce-dc3a-45c3-89d2-c5580e9ba8d4" name="默认的" comment="" />
+      <created>1589250173708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589250173708</updated>
+      <workItem from="1589250177452" duration="2449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589251693036">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" width="1174" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589251693036" />
+    <state x="2580" y="166" key="#spring-cloud-auth.sql" timestamp="1589250527874">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2580" y="166" key="#spring-cloud-auth.sql/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589250527874" />
+    <state x="2646" y="37" key="#自动导入" timestamp="1589250460712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2646" y="37" key="#自动导入/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589250460712" />
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.0.center" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.0.left" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.0.right" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.1.bottom" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state width="1877" height="328" key="GridCell.Tab.1.center" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.1.left" timestamp="1589252627758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627758" />
+    <state width="1877" height="328" key="GridCell.Tab.1.right" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state width="1877" height="328" key="GridCell.Tab.2.bottom" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state width="1877" height="328" key="GridCell.Tab.2.center" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state width="1877" height="328" key="GridCell.Tab.2.left" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state width="1877" height="328" key="GridCell.Tab.2.right" timestamp="1589252627759">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="328" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252627759" />
+    <state x="2381" y="164" key="SettingsEditor" timestamp="1589251212330">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589251212330" />
+    <state x="2582" y="236" width="595" height="568" key="find.popup" timestamp="1589252514474">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2582" y="236" width="595" height="568" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589252514474" />
+    <state x="2350" y="94" key="new project wizard" timestamp="1589251586968">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2350" y="94" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589251586968" />
+  </component>
+</project>
