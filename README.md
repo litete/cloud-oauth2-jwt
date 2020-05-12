@@ -1,1 +1,1 @@
-springCloud集成oauth2和jwt,jwt存在内存中
+springCloud集成oauth2和jwt,jwt使用jdk生成的jks文件
